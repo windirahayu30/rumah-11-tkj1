@@ -1,0 +1,6 @@
+nama:
+windi rahayu
+kelas:
+11 TKJ 01 - SMK panca bhakti rakit
+mapel:
+KK2 cloud computing
